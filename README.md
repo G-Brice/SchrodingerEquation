@@ -1,2 +1,2 @@
 # SchrodingerEquation
-Python program to solve the Schrödinger equation based on FFT (Fast Fourier Transform).
+Python program to solve the Schrödinger equation based on fast Fourier transform (FFT).
